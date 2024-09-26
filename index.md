@@ -35,8 +35,8 @@ Moodle | Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view.php?id=4
 | Week | Date      | Exam (TBA)  | Area                        | Material                                                           |
 |:----:|:---------:|:-----------:|:----------------------------|:-------------------------------------------------------------------|
 | 1    | 12/09     |                             | Course overview  | [[slides][1p], [video][1v]] |
-| 2    | 19/09     | Information Retrieval       | Basic Information Retrieval | [[slides][2p]] |
-| 3    | 26/09     |                             | Embedding techniques  | |
+| 2    | 19/09     | Information Retrieval       | Basic Information Retrieval | [[slides][2p], [video][2v]] |
+| 3    | 26/09     |                             | Embedding techniques  | [[slides][3p]] |
 | 4    | 03/10     |                             | Embedding techniques | |
 | 5    | 10/10     |                             | Recommender Systems  | |
 | 6    | 17/10     |                             | Document Classification | |
@@ -57,7 +57,7 @@ During the semester, you will need to implement 2 graded projects, regarding the
 - P2: TBA
 
 **Logistics:**
-- All 2 projects comprise **50% of the final grade** (25% each).
+- All 2 projects comprise **60% of the final grade** (30% each).
 - You will have **6 weeks** to implement and submit each project (please review the detailed schedule per project below).
 - You will have **5 late-days policy** that you can use in any project deadline throughout the semester.
 - All projects will be implemented in **Python**.
@@ -134,7 +134,7 @@ Please contact us for any organisational questions or questions related to the c
 [14p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2014
 
 [1v]:https://mediaspace.epfl.ch/media/DIS+-+Week+1/0_6cyqd2m2/29734
-
+[2v]:https://mediaspace.epfl.ch/media/DIS+-+Week+2/0_wn2kfcxe/29734
 
 <!-- [1l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%201 -->
 <!-- [2l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%202
