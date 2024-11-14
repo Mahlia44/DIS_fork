@@ -2,8 +2,11 @@
 This course introduces the key concepts and algorithms from the areas of information retrieval, data mining and knowledge bases, which constitute the foundations of today's web-based distributed information systems. 
 
 ### Final Exam:
-The final exam will take place on **30 Jan. 2025**.
-<!--from 15:00 to 18:00** in rooms **CE 1515** and **CE 6**. -->
+📅 **Date:** Thursday, Jan 30 (30.01.2025)
+
+🕒 **When:** From 15h15 to 18h15
+
+📍 **Where:** [PO01](https://plan.epfl.ch/?room==PO%2001)
 
 
 <!-- ### Midterm:  -->
@@ -39,11 +42,11 @@ Moodle | Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view.php?id=4
 | 2    | 19/09     | Information Retrieval       | Basic Information Retrieval | [[slides][2p], [video][2v]] |
 | 3    | 26/09     |                             | Embedding techniques  | [[slides][3p], [video][3v]] |
 | 4    | 03/10     |                             | Embedding techniques | [[slides][4p], [video][4v]] |
-| 5    | 10/10     |                             | Recommender Systems  | [[slides][5p]] |
-| 6    | 17/10     |                             | Document Classification | |
-| 7    | 31/10     |                             | Link Ranking | |
-| 8    | 7/11      | Information Extraction      | Graph Mining | |
-| 9    | 14/11     |                             | Named Entity Recognition | |
+| 5    | 10/10     |                             | Recommender Systems  | [[slides][5p], [video][5v]] |
+| 6    | 17/10     |                             | Document Classification | [[slides][6p], [video][6v]] |
+| 7    | 31/10     |                             | Transformers | [[video][7v]] |
+| 8    | 7/11      | Information Extraction      | Link Ranking, Graph Mining | [[slides][8p], [video][8v]] |
+| 9    | 14/11     |                             | Named Entity Recognition | [[slides][9p]]|
 | 10   | 21/11     |                             | Knowledge Representation | |
 | 11   | 28/11     |                             | Information Extraction | |
 | 12   | 05/12     |                             | Knowledge Inferences | |
@@ -65,17 +68,17 @@ During the semester, you will need to implement 2 graded projects, regarding the
 - A **2-page report** of each project should be submitted in Moodle.
 - Details for each project will be released for each project respectively.
 
-#### P1: Text Retrieval [[video](https://mediaspace.epfl.ch/media/P1+Presentation/0_8jf49auh/29734)]
+#### P1: Text Retrieval
 Release Date: **16 Sept**
 
 Presentation Date: **19 Sept**, 12-13:00 (during lab session)
 
 Deadline Date: **3 Nov**, 23:59.
 
-#### P2: TBA
-Release Date: **4 Nov**
+#### P2: Recommender Systems
+Release Date: **7 Nov**
 
-Presentation Date: **7 Nov**, 12-13:00 (during lab session)]
+Presentation Date: **14 Nov**, 12-13:00 (during lab session)]
 
 Deadline Date: **15 Dec**, 23:59.
 
@@ -93,14 +96,6 @@ Deadline Date: **15 Dec**, 23:59.
 Exercises are **NOT graded**. We have released exercises for all topics covered in the weekly lectures under [this path](https://github.com/LSIR/DIS/tree/master/Exercises). Feel free to solve them since the final exam will follow the same format.
 
 Exercises / Lab sessions will be allocated for questions regarding the Projects.
-
-## Final Exam (TBA)
-
-<!-- 📅 **Date:** Tuesday, Jan 30 (30.01.2024)
-
-🕒 **When:** From 15h15 to 18h15
-
-📍 **Where:** PO01 -->
 
 
 ## Communication Guidelines
@@ -138,3 +133,8 @@ Please contact us for any organisational questions or questions related to the c
 [2v]:https://mediaspace.epfl.ch/media/DIS+-+Week+2/0_wn2kfcxe/29734
 [3v]:https://mediaspace.epfl.ch/media/DIS+-+Week+3/0_5syk20l1/29734
 [4v]:https://mediaspace.epfl.ch/media/DIS+-+Week+4/0_lz19pk98/29734
+[5v]:https://mediaspace.epfl.ch/media/DIS+-+Week+5/0_cjaforc0/29734
+[6v]:https://mediaspace.epfl.ch/media/DIS+-+Week+6/0_htjlzpdc/29734
+[7v]:https://mediaspace.epfl.ch/media/DIS+-+Transformers/0_y1ac6dme/29734
+[8v]:https://mediaspace.epfl.ch/media/DIS+-+Week+8/0_01ev6mmz/29734
+
