@@ -1,0 +1,47 @@
+name: dis_2024  # Change the name as needed
+channels:
+  - defaults
+  - conda-forge  # Add conda-forge for better compatibility with some packages
+  - pytorch 
+dependencies:
+  - python=3.10.10
+  - certifi
+  - charset-normalizer
+  - click
+  - filelock
+  - fsspec
+  # - huggingface-hub
+  - idna
+  - jinja2
+  - joblib
+  - markupsafe
+  - mpmath
+  - networkx
+  - nltk
+  - numpy
+  - packaging
+  - pandas
+  - pillow
+  - python-dateutil
+  - pytz
+  - pyyaml
+  - regex
+  - requests
+  - safetensors
+  - scikit-learn
+  - scipy
+  - sentence-transformers  # May require pip if not available on Conda
+  - six
+  - sympy
+  - threadpoolctl
+  - tokenizers
+  # - torch  # GPU or CPU version might need adjustment
+  - tqdm
+  - transformers  # May require pip if not available on Conda
+  - typing_extensions
+  - tzdata
+  - urllib3
+  - pip  # To allow pip installations if some packages are unavailable
+  # - pip:
+  #   - huggingface-hub
+  #   - sentence-transformers
